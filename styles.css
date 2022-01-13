@@ -1,0 +1,95 @@
+h1{
+   font-family:Georgia, serif;
+   text-decoration:underline;
+   font-size:40px;
+}
+
+p{
+   font-family:Georgia, serif;
+   padding-left:400px;
+   padding-right:400px;
+   text-align:left;
+   font-size:20px;
+   line-height:30px;
+}
+
+.pIntro{
+   text-indent:30px;
+}
+
+.pDisclaimer{
+   font-family:Calibri;
+   padding-left:0px;
+   padding-right:0px;
+   line-height:20px;
+
+}
+
+body{
+   background-color:#fff5db;
+   margin:20px;
+
+}
+
+.pFobi{
+   padding-right:800px;
+}
+
+.pAuthor{
+   font-family:Georgia, serif;
+   color:grey;
+   text-align:left;
+   font-style:italic;
+   font-size:18px;
+}
+
+.affirmPic{
+   float:right;
+   padding-right:390px;
+   height:280px;
+   margin:10px;
+}
+
+.fobiPic{
+   float:right;
+   padding-right:395px;
+   height:180px;
+   width:320px;
+   margin:10px;
+}
+
+.pennPic{
+   height:160px;
+   padding-right:30px;
+
+}
+
+abbr{
+   text-decoration:none;
+}
+
+h2{
+   font-size:30px; 
+   font-family:Georgia, serif;
+}
+
+.h2Affirm{
+   padding-right:235px;
+}
+
+.h2Fobi{
+   padding-right:260px;
+}
+
+details{
+   font-size:20px;
+   width:680px;
+}
+
+footer{
+   font-size:20px;
+}
+
+div{
+   margin-left:400px;
+}
